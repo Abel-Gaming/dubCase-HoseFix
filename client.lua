@@ -42,14 +42,6 @@ function switchNozzle()
     end
 end
 
-RegisterCommand(
-    "hose",
-    function(source, args, raw) --change command here
-        switchNozzle()
-    end,
-    false
-)
-
 RegisterNetEvent('baseevents:onPlayerDied')
 AddEventHandler(
     'baseevents:onPlayerDied',
