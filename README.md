@@ -1,4 +1,3 @@
-# dubCase-HoseFix
-https://forum.cfx.re/u/gimicz fixed this modification.
+# Abel Gaming Fire Hose Fork
 
-#Visit my discord https://discord.gg/jhreP9uGmm
+## Forked from dubCase-Hose
